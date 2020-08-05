@@ -128,7 +128,7 @@ body {
 }
 
 .nav-list li ul {
-visibility: hidden;
+  visibility: hidden;
   opacity: 0;
   position: absolute;
   transition: all 0.5s ease;
@@ -148,7 +148,6 @@ visibility: hidden;
   clear: both;
   width: 100%;
 }
-
 
 .nav-list li:hover {
   background-color: #202020;
@@ -432,7 +431,6 @@ visibility: hidden;
 #container-four-items {
   margin-top: 40px;
   display: flex;
-  width: 78%;
 }
 
 #container-four-items iframe {
