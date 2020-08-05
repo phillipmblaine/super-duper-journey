@@ -327,6 +327,7 @@ body {
 }
 
 .card-content:hover {
+  filter: brightness(70%);
   -webkit-filter: brightness(70%);
 }
 
